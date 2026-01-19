@@ -1,4 +1,5 @@
-This project analyzes economic data to explore GDP, GNI per capita, investment, and trade patterns among major world economies. Tools used include Pandas, SQLite, and Plotly Express for data cleaning, analysis, and visualization.
+This project analyzes economic data from the top 10 largest global economies to explore the complexity of their financial structures, investment strategies, trade patterns, and overall economic performance.
+The study focuses on key indicators such as GDP, GNI per capita, investment levels, and trade balance, highlighting how these factors reflect the economic philosophies and sectoral strengths of each country. Through detailed visualizations and comparative analysis, the project demonstrates the diversity of economic power across major economies and provides insights into how macroeconomic performance translates (or sometimes does not translate) into citizen prosperity.
 
     Technologies Used
     • Python • Pandas • Matplotlib • Seaborn • SQLite • Google Colab 
